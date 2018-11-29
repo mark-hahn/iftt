@@ -1,0 +1,12 @@
+{
+  "name": "ifttt",
+  "version": "1.0.0",
+  "description": "hahn home ifttt endpoint server",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC"
+}
+s
